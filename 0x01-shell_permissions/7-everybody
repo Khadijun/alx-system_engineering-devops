@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 hello
+chmod -R 711 0x01-shell_basics/hello
