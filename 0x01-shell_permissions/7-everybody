@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 711 0x01-shell_basics/hello
+chmod a+x ./hello
