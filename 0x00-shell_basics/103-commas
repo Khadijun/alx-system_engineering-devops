@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | awk '{print $9}' | sed 's/$/\//; 1d' | LC_COLLATE=C sort -t/ -k2,2 -k1,1
+ls
