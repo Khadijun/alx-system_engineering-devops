@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -minddepth -type d -print |grep -v '^\.$' | grep -v '^\.\.$' | wc -l
+find ./*/-type d -print |grep -v '^\.$' | grep -v '^\.\.$' | wc -l
