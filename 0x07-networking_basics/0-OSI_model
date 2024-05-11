@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#The script answers multiple choicee questions about the OSI model
-echo 3
-echo 2
+#The script answers multiple choice questions about the OSI model
+echo "2"
+echo "2"
