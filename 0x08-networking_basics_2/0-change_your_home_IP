@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#The scrit configure some data to UBUNTU  server
+
+ifconfig localhost 127.0.0.2
+ifconfig facebook.com 8.8.8.8.
