@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# A script that reads listening port, PID and name of the program they belong
+netstat -tulnp
